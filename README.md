@@ -32,8 +32,7 @@ appendchild
 
 
 Now go head and add HEllo word before Item Lister
-Now go head and add HEllo word before Item 1
-If stuck for long check the hints.
+Now go head and add HEllo word before Item 1.
 
 
 
